@@ -45,7 +45,11 @@ To clone the repository, follow these steps:
    ```
    cd attackontitan-rumbling
    ```
-5. Open a browser, then type:
+5. Open a browser, then access phpmyadmin:
+   ```
+   localhost/phpmyadmin # Create a database, then insert the .sql file in the project folder into the import menu
+   ```
+6. Access the website:
    ```
    attackontitan-rumbling.test
    ```
@@ -53,7 +57,7 @@ To clone the repository, follow these steps:
    ```
    localhost/attackontitan-rumbling
    ```
-
+   
 <h2 id="license">🔰 License</h2>
 
 Copyright © 2024 Web Programming Practicum Assistant & [@send0moka](https://github.com/send0moka/) & [@sharclen5](https://github.com/sharclen5/). This project is open-source licensed under the MIT License.
