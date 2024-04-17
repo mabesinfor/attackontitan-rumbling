@@ -47,7 +47,8 @@ To clone the repository, follow these steps:
    ```
 5. Open a browser, then access phpmyadmin:
    ```
-   localhost/phpmyadmin # Create a database, then insert the .sql file in the project folder into the import menu
+   localhost/phpmyadmin
+   # Create a database, then insert the .sql file in the project folder into the import menu
    ```
 6. Access the website:
    ```
